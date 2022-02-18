@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seasons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/songs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/youtube" vcs="Git" />
+  </component>
+</project>
